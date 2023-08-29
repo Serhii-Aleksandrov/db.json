@@ -1,5 +1,4 @@
-}
-  'fruits' : [
+
     {
       name: "Apple",
       color: "Red",
@@ -79,6 +78,4 @@
       nutrients: ["Antioxidants", "Vitamin K"],
       price: 0.5,
       imageLink: "https://example.com/blueberry.jpg",
-    },
-  ]
- } 
+    }
