@@ -1,1 +1,132 @@
-[{"name":"Apple","color":"Red","taste":"Sweet and Crisp","nutrients":["Vitamin C","Fiber"],"price":0.5,"imageLink":"https://img.icons8.com/?size=512&id=P5EZaerMsATR&format=png"},{"name":"Banana","color":"Yellow","taste":"Sweet and Creamy","nutrients":["Potassium","Vitamin B6"],"price":0.25,"imageLink":"https://img.icons8.com/?size=512&id=a1RyRkDIEI9B&format=png"},{"name":"Orange","color":"Orange","taste":"Tangy and Juicy","nutrients":["Vitamin C","Fiber"],"price":0.6,"imageLink":"https://img.icons8.com/?size=512&id=hfNCM7e9VGca&format=png"},{"name":"Grapes","color":"Purple/Green","taste":"Sweet and Juicy","nutrients":["Antioxidants","Resveratrol"],"price":1.2,"imageLink":"https://img.icons8.com/?size=512&id=WsAEBc9VDLm3&format=png"},{"name":"Strawberry","color":"Red","taste":"Sweet and Tart","nutrients":["Vitamin C","Fiber"],"price":0.8,"imageLink":"https://img.icons8.com/?size=512&id=brWmrA4--NST&format=png"},{"name":"Mango","color":"Yellow/Orange","taste":"Sweet and Luscious","nutrients":["Vitamin A","Vitamin C"],"price":1.5,"imageLink":"https://img.icons8.com/?size=512&id=y06NHH_kl00a&format=png"},{"name":"Pineapple","color":"Yellow/Brown","taste":"Sweet and Tangy","nutrients":["Vitamin C","Bromelain"],"price":2,"imageLink":"https://img.icons8.com/?size=512&id=UVrEwE_pF_Jk&format=png"},{"name":"Kiwi","color":"Green","taste":"Tart and Refreshing","nutrients":["Vitamin C","Vitamin K"],"price":0.7,"imageLink":"https://img.icons8.com/?size=512&id=dmcVIE1ztYMm&format=png"},{"name":"Watermelon","color":"Green/Red","taste":"Juicy and Refreshing","nutrients":["Hydration","Vitamin C"],"price":3,"imageLink":"https://img.icons8.com/?size=512&id=qsamHkjVPQf3&format=png"},{"name":"Blueberry","color":"Blue/Purple","taste":"Sweet and Bursting","nutrients":["Antioxidants","Vitamin K"],"price":0.5,"imageLink":"https://img.icons8.com/?size=512&id=PA2roXfuHYpW&format=png"}]
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "color": "Red",
+    "taste": "Sweet and Crisp",
+    "nutrients": [
+      "Vitamin C",
+      "Fiber"
+    ],
+    "price": 0.5,
+    "imageLink": "https://img.icons8.com/?size=512&id=P5EZaerMsATR&format=png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Banana",
+    "color": "Yellow",
+    "taste": "Sweet and Creamy",
+    "nutrients": [
+      "Potassium",
+      "Vitamin B6"
+    ],
+    "price": 0.25,
+    "imageLink": "https://img.icons8.com/?size=512&id=a1RyRkDIEI9B&format=png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Orange",
+    "color": "Orange",
+    "taste": "Tangy and Juicy",
+    "nutrients": [
+      "Vitamin C",
+      "Fiber"
+    ],
+    "price": 0.6,
+    "imageLink": "https://img.icons8.com/?size=512&id=hfNCM7e9VGca&format=png",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Grapes",
+    "color": "Purple/Green",
+    "taste": "Sweet and Juicy",
+    "nutrients": [
+      "Antioxidants",
+      "Resveratrol"
+    ],
+    "price": 1.2,
+    "imageLink": "https://img.icons8.com/?size=512&id=WsAEBc9VDLm3&format=png",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Strawberry",
+    "color": "Red",
+    "taste": "Sweet and Tart",
+    "nutrients": [
+      "Vitamin C",
+      "Fiber"
+    ],
+    "price": 0.8,
+    "imageLink": "https://img.icons8.com/?size=512&id=brWmrA4--NST&format=png",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Mango",
+    "color": "Yellow/Orange",
+    "taste": "Sweet and Luscious",
+    "nutrients": [
+      "Vitamin A",
+      "Vitamin C"
+    ],
+    "price": 1.5,
+    "imageLink": "https://img.icons8.com/?size=512&id=y06NHH_kl00a&format=png",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Pineapple",
+    "color": "Yellow/Brown",
+    "taste": "Sweet and Tangy",
+    "nutrients": [
+      "Vitamin C",
+      "Bromelain"
+    ],
+    "price": 2,
+    "imageLink": "https://img.icons8.com/?size=512&id=UVrEwE_pF_Jk&format=png",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Kiwi",
+    "color": "Green",
+    "taste": "Tart and Refreshing",
+    "nutrients": [
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "price": 0.7,
+    "imageLink": "https://img.icons8.com/?size=512&id=dmcVIE1ztYMm&format=png",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Watermelon",
+    "color": "Green/Red",
+    "taste": "Juicy and Refreshing",
+    "nutrients": [
+      "Hydration",
+      "Vitamin C"
+    ],
+    "price": 3,
+    "imageLink": "https://img.icons8.com/?size=512&id=qsamHkjVPQf3&format=png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Blueberry",
+    "color": "Blue/Purple",
+    "taste": "Sweet and Bursting",
+    "nutrients": [
+      "Antioxidants",
+      "Vitamin K"
+    ],
+    "price": 0.5,
+    "imageLink": "https://img.icons8.com/?size=512&id=PA2roXfuHYpW&format=png",
+    "count": 0
+  }
+]
