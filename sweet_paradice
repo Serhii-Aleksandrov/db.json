@@ -1,6 +1,6 @@
 [
   {
-    "eclairs": [
+    "Еклери": [
       {"id": 1, "name": "Еклер з кремовим наповнювачем", "image": "images/images_catalog/eclair1.png", "description": "Десерт французького походження з кремовим наповнювачем", "price": 2.5, "composition": "Борошно, цукор, вершки, яйця", "stock": 20, "weight": 100},
       {"id": 2, "name": "Еклер з кремовим начинням", "image": "images/images_catalog/eclair2.png", "description": "Легкий і ніжний десерт зі смачним кремовим начинням", "price": 2.3, "composition": "Борошно, цукор, вершки, яйця", "stock": 15, "weight": 120},
       {"id": 3, "name": "Традиційний еклер", "image": "images/images_catalog/eclair3.png", "description": "Традиційний французький десерт із збитим вершками", "price": 1.5, "composition": "Борошно, цукор, вершки, яйця", "stock": 10, "weight": 90},
@@ -12,7 +12,7 @@
       {"id": 9, "name": "Еклер з кавовим смаком", "image": "images/images_catalog/eclair3.png", "description": "Еклер з кавовим кремом та какаовою глазур'ю", "price": 5, "composition": "Борошно, цукор, вершки, яйця, кава, какао", "stock": 8, "weight": 98},
       {"id": 10, "name": "Еклер з малиновим смаком", "image": "images/images_catalog/eclair5.png", "description": "Еклер зі смаком малини та ванільного крему", "price": 3.2, "composition": "Борошно, цукор, вершки, яйця, малина, ваніль", "stock": 17, "weight": 92}
     ],
-    "macaruns": [
+    "Маракуни": [
       {"id": 11, "name": "Макарун з фруктовими начинками", "image": "images/images_catalog/macarun1.png", "description": "Кольорові макаруни з фруктовими начинками", "price": 1.8, "composition": "Борошно, цукор, мигдаль, яйця, фруктове желе", "stock": 25, "weight": 95},
       {"id": 12, "name": "Шоколадний макарун", "image": "images/images_catalog/macarun2.png", "description": "Макарун зі шоколадним кремом і кавовим ароматом", "price": 1.8, "composition": "Борошно, цукор, какао, яйця, кава", "stock": 20, "weight": 105},
       {"id": 13, "name": "Макарун з вишневою начинкою", "image": "images/images_catalog/macarun3.png", "description": "Макарун з вишневою начинкою та збитими вершками", "price": 1.8, "composition": "Борошно, цукор, вершки, яйця, вишня", "stock": 30, "weight": 110},
@@ -24,7 +24,7 @@
       {"id": 19, "name": "Ванільний макарун", "image": "images/images_catalog/macarun1.png", "description": "Макарун зі смаком ванілі та шоколадним ганашем", "price": 1.8, "composition": "Борошно, цукор, ваніль, яйця, шоколадний ганаш", "stock": 25, "weight": 98},
       {"id": 20, "name": "Макарун з кокосовим курдом", "image": "images/images_catalog/macarun2.png", "description": "Макарун з кокосовим курдом і малиновим ганашем", "price": 1.8, "composition": "Борошно, цукор, кокос, яйця, малиновий ганаш", "stock": 22, "weight": 100}
     ],
-    "cupcakes": [
+    "Капкейки": [
       {"id": 21, "name": "Капкейк з шоколадним смаком", "image": "images/images_catalog/cupcake1.png", "description": "Капкейк зі смаком шоколаду та вишневого крему", "price": 3, "composition": "Борошно, цукор, какао, яйця, вишня", "stock": 20, "weight": 120},
       {"id": 22, "name": "Капкейк з кавовим смаком", "image": "images/images_catalog/cupcake2.png", "description": "Капкейк зі смаком кави та какаовими крихтами", "price": 3, "composition": "Борошно, цукор, кава, яйця, какао", "stock": 18, "weight": 110},
       {"id": 23, "name": "Капкейк з лимонним смаком", "image": "images/images_catalog/cupcake3.png", "description": "Капкейк з лимонним курдом та вершковим ганашем", "price": 3, "composition": "Борошно, цукор, лимон, яйця, вершковий ганаш", "stock": 25, "weight": 115},
@@ -36,7 +36,7 @@
       {"id": 29, "name": "Капкейк з лісовими ягодами", "image": "images/images_catalog/cupcake9.png", "description": "Капкейк з лісовими ягодами і кремом із лаванди", "price": 3, "composition": "Борошно, цукор, лісові ягоди, яйця, лавандовий крем", "stock": 18, "weight": 115},
       {"id": 30, "name": "Капкейк з апельсиновим смаком", "image": "images/images_catalog/cupcake1.png", "description": "Капкейк зі смаком апельсина та горіхів", "price": 3, "composition": "Борошно, цукор, апельсин, горіхи, яйця", "stock": 12, "weight": 110}
     ],
-    "maffins": [
+    "Маффіни": [
       {"id": 31, "name": "Шоколадний маффін", "image": "images/images_catalog/maffin1.png", "description": "Маффін з шоколадними краплями та горіхами", "price": 2.2, "composition": "Борошно, цукор, шоколадні краплі, горіхи, яйця", "stock": 20, "weight": 100},
       {"id": 32, "name": "Ягідний маффін", "image": "images/images_catalog/maffin2.png", "description": "Маффін з ягідним варенням та лимонним кремом", "price": 2.2, "composition": "Борошно, цукор, ягідне варення, лимон, яйця", "stock": 18, "weight": 95},
       {"id": 33, "name": "Ванільний маффін", "image": "images/images_catalog/maffin1.png", "description": "Маффін зі смаком ванілі та карамельним ганашем", "price": 2.2, "composition": "Борошно, цукор, ваніль, карамельний ганаш, яйця", "stock": 25, "weight": 110},
@@ -48,7 +48,7 @@
       {"id": 39, "name": "Кавовий маффін", "image": "images/images_catalog/maffin1.png", "description": "Маффін зі смаком кави та ванільного крему", "price": 2.2, "composition": "Борошно, цукор, кава, ваніль, яйця", "stock": 30, "weight": 120},
       {"id": 40, "name": "Шоколадно-вишневий маффін", "image": "images/images_catalog/maffin2.png", "description": "Маффін з шоколадним ганашем та вишневим кислинкою", "price": 2.2, "composition": "Борошно, цукор, шоколадний ганаш, вишня, яйця", "stock": 28, "weight": 105}
     ],
-    "donuts": [
+    "Пончики": [
       {"id": 41, "name": "Карамельний пончик", "image": "images/images_catalog/donut1.png", "description": "Пончик з начинкою з карамелі та шоколадним глазур'ю", "price": 1.5, "composition": "Борошно, цукор, карамель, шоколад", "stock": 20, "weight": 90},
       {"id": 42, "name": "Ягідний пончик", "image": "images/images_catalog/donut2.png", "description": "Пончик з ягідним джемом та цукровою пудрою", "price": 1.5, "composition": "Борошно, цукор, ягідний джем, цукрова пудра", "stock": 18, "weight": 85},
       {"id": 43, "name": "Апельсиновий пончик", "image": "images/images_catalog/donut3.png", "description": "Пончик з апельсиновим курдом та шоколадною глазур'ю", "price": 1.5, "composition": "Борошно, цукор, апельсин, шоколад", "stock": 25, "weight": 92},
