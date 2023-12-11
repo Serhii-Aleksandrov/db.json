@@ -59,7 +59,9 @@
       {"id": 48, "name": "Ягідний пончик", "image": "images/images_catalog/donut2.png", "description": "Пончик з ягідним курдом та лимонною пудрою", "price": 1.5, "composition": "Борошно, цукор, ягідний курд, лимон", "stock": 17, "weight": 89},
       {"id": 49, "name": "Апельсиновий пончик", "image": "images/images_catalog/donut3.png", "description": "Пончик з апельсиновим ганашем та карамельною начинкою", "price": 1.5, "composition": "Борошно, цукор, апельсиновий ганаш, карамель", "stock": 30, "weight": 94},
       {"id": 50, "name": "Малиновий пончик", "image": "images/images_catalog/donut4.png", "description": "Пончик з малиновим курдом та шоколадною глазур'ю", "price": 1.5, "composition": "Борошно, цукор, малиновий курд, шоколад", "stock": 28, "weight": 91}
-    ],
+    ]
+  },
+  {
     "newProduct": [
       {"id": 1, "name": "Панна Котта", "image": "images/images_catalog/panna_kota.png", "description": "Свежие яйца, желток, сахар, маскарпоне, готовое печенье 'Савоярди', эспрессо, коньяк, какао, соль", "price": 4, "composition": "Борошно, цукор, вершки, яйця, трюфель", "stock": 28, "weight": 120},
       {"id": 2, "name": "Тирамису", "image": "images/images_catalog/tiramisu.png", "description": "Свежие яйца, желток, сахар, маскарпоне, готовое печенье 'Савоярди', эспрессо, коньяк, какао, соль", "price": 3.5, "composition": "Борошно, цукор, вершки, яйця, манго, пасіонфрут", "stock": 15, "weight": 110},
